@@ -46,8 +46,8 @@ By completing these tasks, you will learn:
    │   │   ├── base.py              ✅ Complete
    │   │   ├── openaai_client.py    ✅ Complete
    │   │   └── anthpoic_client.py   ✅ Complete
-   │   ├── main.py                  ✅ Complete
-   │   └── client.py                ✅ Complete
+   │   ├── constant.py              ✅ Complete
+   │   └── main.py                  ✅ Complete
    ├── 1-task-models.py             🚧 TODO
    ├── 2-task-n.py                  🚧 TODO
    ├── 3-task-temperature.py        🚧 TODO
